@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react";
 import { StudentsContext } from "../learn-useState/Counter";
-import "./index.css";
+import "./Index.css";
 
 const themes = {
   light: {
@@ -36,7 +36,7 @@ export default function Index() {
         }}
       >
         <p className="Text">Theme by useContext</p>
-        <p>KELOMPOK 19</p>
+        <p>KELOMPOK 23</p>
         <ThemedButton />
       </div>
     </ThemeContext.Provider>

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Students } from "../learn-useContext";
+import { Students } from "../learn-useContext/Index";
 import logo from "../logo.svg";
 import "./Counter.css";
 
@@ -25,7 +25,7 @@ export default function Counter() {
 	return (
 		<div className="Main">
 			<p className="Text">Counter with useState</p>
-			<p>KELOMPOK 19</p>
+			<p>KELOMPOK 23</p>
 			<div className="ViewImage">
 				<div className="ViewImage1">
 					<img

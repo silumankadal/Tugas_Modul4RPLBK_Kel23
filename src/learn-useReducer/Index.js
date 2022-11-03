@@ -1,5 +1,5 @@
 import React, { useState, useReducer } from "react";
-import "./index.css";
+import "./Index.css";
 
 const initialState = {count: 0};
 

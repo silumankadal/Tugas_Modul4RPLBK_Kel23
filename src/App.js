@@ -4,9 +4,9 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 import Counter from './learn-useState/Counter';
-import Effect from './learn-useEffect';
-import Context from './learn-useContext';
-import Reducer from './learn-useReducer';
+import Effect from './learn-useEffect/Index';
+import Context from './learn-useContext/Index';
+import Reducer from './learn-useReducer/Index';
 
 function App() {
   return (
